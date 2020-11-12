@@ -1,2 +1,2 @@
-whoIsChampion = input("Кто чемпион?\n")
-print((whoIsChampion + " чемпион\n") * 10)
+whoIsChampion = input("Кто чемпионыыыыыы?\n")
+print((whoIsChampion + " чемпионыыыыы\n") * 10)
